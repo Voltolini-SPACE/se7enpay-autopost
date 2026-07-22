@@ -1,0 +1,33 @@
+{
+  "id": "PUB-007",
+  "pauta": "P39",
+  "name": "O que é margem programável",
+  "pillar": "Margem Programável",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "LA",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Aprenda como funciona",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "title": "O que é margem programável.",
+    "caption": "Margem programável é você decidir como a receita se distribui — na própria transação, conforme a regra que configurou. Uma venda entra, a margem se distribui, cada parte recebe o combinado. Margem programável não é sorte. É configuração.",
+    "alt": "Carrossel escuro com um diagrama de fluxo mostrando a distribuição da margem, com destaques cyan.",
+    "short": "Margem programável não é sorte. É configuração.",
+    "whatsapp": "Margem programável é decidir, na própria transação, como a receita se reparte. Quer entender como isso muda a operação?",
+    "sales": "Explica o conceito-assinatura da SE7EN de forma educativa.",
+    "pinned_comment": "Ficou claro o conceito de margem programável? Pergunta o que quiser.",
+    "faq_answer": "'Isso é o mesmo que split?' É a ideia de distribuir margem de forma programável — na SE7EN chamamos de distribuição programável de margem.",
+    "hashtags": "#SE7ENPAY #MargemProgramável #Pagamentos #Licenciado #InfraestruturaDePagamento"
+  },
+  "assets": [
+    "PUB-007_p01_v45.png",
+    "PUB-007_p02_v45.png",
+    "PUB-007_p03_v45.png",
+    "PUB-007_p04_v45.png",
+    "PUB-007_p05_v45.png"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

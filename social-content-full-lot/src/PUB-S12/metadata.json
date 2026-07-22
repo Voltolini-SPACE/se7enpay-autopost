@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S12",
+  "name": "Educação: o que é arranjo?",
+  "pillar": "Margem Programável",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Consideração",
+  "cta": "Salve o glossário",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "description": "Explica o conceito de arranjo de pagamento.",
+    "alt": "Story escuro com quiz e resposta.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Interações",
+  "assets": [
+    "PUB-S12_p01_story.png",
+    "PUB-S12_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

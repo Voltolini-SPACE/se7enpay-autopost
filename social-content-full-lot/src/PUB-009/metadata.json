@@ -1,0 +1,29 @@
+{
+  "id": "PUB-009",
+  "pauta": "P11",
+  "name": "Take rate, o termômetro",
+  "pillar": "Margem Programável",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "LA/EC",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Acompanhe o seu take rate",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Take rate é o termômetro da sua operação.",
+    "caption": "Take rate é a margem efetiva sobre o volume transacionado. De tudo que passou, quanto virou margem. Acompanhar o take rate é acompanhar a saúde da operação.",
+    "alt": "Arte estática escura definindo take rate, com o termo em cyan.",
+    "short": "Take rate: de tudo que passou, quanto virou margem.",
+    "whatsapp": "Take rate é a margem efetiva sobre o volume: de tudo que passou, quanto virou margem. É o termômetro da operação. Quer entender o seu?",
+    "sales": "Fixa o conceito de take rate como métrica de saúde.",
+    "pinned_comment": "Você acompanha seu take rate? Comenta aqui.",
+    "faq_answer": "'Take rate é a taxa?' Não exatamente: é a margem efetiva sobre o TPV, o que de fato vira margem.",
+    "hashtags": "#SE7ENPAY #TakeRate #MargemProgramável #Pagamentos"
+  },
+  "assets": [
+    "PUB-009_p01_v45.png"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

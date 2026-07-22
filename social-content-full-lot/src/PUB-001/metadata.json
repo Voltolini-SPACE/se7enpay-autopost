@@ -1,0 +1,32 @@
+{
+  "id": "PUB-001",
+  "pauta": "P01",
+  "name": "Capturar, programar, escalar",
+  "pillar": "Infraestrutura",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "Mercado",
+  "funnel": "Descoberta",
+  "objective": "Posicionar",
+  "cta": "Conheça a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Capturar, programar, escalar.",
+    "caption": "Três verbos resumem a SE7EN PAY. Capturar: transformar cada venda em receita. Programar: decidir como a margem se distribui. Escalar: crescer a operação sem perder o controle. Infraestrutura de monetização. Margem programável. Operação em tempo real.",
+    "alt": "Carrossel escuro com três cartões, cada um com um verbo em cyan — capturar, programar, escalar — e a logo SE7EN PAY.",
+    "short": "Capturar, programar, escalar. É isso que a SE7EN PAY entrega.",
+    "whatsapp": "A SE7EN PAY resume o que faz em três verbos: capturar, programar e escalar. Infraestrutura de monetização de pagamentos. Quer entender como? Chama a gente.",
+    "sales": "Abertura institucional para apresentar a SE7EN PAY em uma frase.",
+    "pinned_comment": "A SE7EN PAY é infraestrutura de monetização. Dúvidas? Comenta aqui que a gente responde.",
+    "faq_answer": "Pergunta comum: 'vocês vendem maquininha?' Resposta: a SE7EN PAY é infraestrutura de monetização — captura, margem programável e operação em tempo real.",
+    "hashtags": "#SE7ENPAY #MeiosDePagamento #InfraestruturaDePagamento #MargemProgramável #Pagamentos"
+  },
+  "assets": [
+    "PUB-001_p01_v45.png",
+    "PUB-001_p02_v45.png",
+    "PUB-001_p03_v45.png",
+    "PUB-001_p04_v45.png"
+  ],
+  "pages": 4,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

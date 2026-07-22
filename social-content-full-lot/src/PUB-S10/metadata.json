@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S10",
+  "name": "Bastidor: um dia na operação",
+  "pillar": "Gente SE7EN",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Relacionamento",
+  "cta": "Acompanhe",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "description": "Bastidor editorial (foto oficial recomendada).",
+    "alt": "Story escuro de bastidor.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Visualizações/respostas",
+  "assets": [
+    "PUB-S10_p01_story.png",
+    "PUB-S10_p02_story.png"
+  ],
+  "pages": 2,
+  "note": "OFFICIAL_PHOTO_RECOMMENDED_BEFORE_PUBLICATION"
+}

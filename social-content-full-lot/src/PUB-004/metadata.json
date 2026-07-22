@@ -1,0 +1,34 @@
+{
+  "id": "PUB-004",
+  "pauta": "P12",
+  "name": "Glossário SE7EN parte 1",
+  "pillar": "Margem Programável",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "Novos LAs",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Salve para consultar",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "O vocabulário de quem opera pagamentos — parte 1.",
+    "caption": "Cinco termos que aparecem toda hora na sua operação: EC — Estabelecimento Comercial. LA — Licenciado Autorizado. TPV — Volume Transacionado. Take Rate — margem efetiva sobre o TPV. Markup — a diferença entre custo e preço cobrado ao EC. Salve este carrossel. Na parte 2 seguimos o glossário.",
+    "alt": "Carrossel escuro, um termo por cartão, cada definição curta em Geist com o termo em cyan.",
+    "short": "EC, LA, TPV, take rate, markup: o vocabulário de quem opera pagamentos.",
+    "whatsapp": "Montei um glossário rápido de pagamentos: EC, LA, TPV, take rate e markup. Quer que eu te explique algum?",
+    "sales": "Material de onboarding para novos Licenciados.",
+    "pinned_comment": "Salva o glossário pra não esquecer. Qual termo você quer na parte 2?",
+    "faq_answer": "'O que é take rate?' É a margem efetiva sobre o TPV: de tudo que passou, quanto virou margem.",
+    "hashtags": "#SE7ENPAY #Glossário #Pagamentos #TakeRate #Licenciado"
+  },
+  "assets": [
+    "PUB-004_p01_v45.png",
+    "PUB-004_p02_v45.png",
+    "PUB-004_p03_v45.png",
+    "PUB-004_p04_v45.png",
+    "PUB-004_p05_v45.png",
+    "PUB-004_p06_v45.png"
+  ],
+  "pages": 6,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

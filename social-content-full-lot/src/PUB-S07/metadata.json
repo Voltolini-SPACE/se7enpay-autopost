@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S07",
+  "name": "Quanto sobra: mito x fato",
+  "pillar": "Quanto Sobra",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Consideração",
+  "cta": "Fale com a SE7EN PAY",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "description": "Mito x fato sobre taxa e margem operacional.",
+    "alt": "Story escuro com mito e fato.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Respostas",
+  "assets": [
+    "PUB-S07_p01_story.png",
+    "PUB-S07_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id": "PUB-R06",
+  "name": "Glossário rápido: EC, LA, TPV",
+  "pillar": "Margem Programável",
+  "format": "Reel 9:16",
+  "kind": "reel",
+  "readiness": "READY_AS_MOTION_GRAPHIC",
+  "duration_s": 30,
+  "cover": "PUB-R06_p01_story.png",
+  "storyboard": [
+    {
+      "scene": 1,
+      "time": "0-3s",
+      "frame": "Título",
+      "vo": "Glossário em 30 segundos.",
+      "onscreen": "GLOSSÁRIO"
+    },
+    {
+      "scene": 2,
+      "time": "3-24s",
+      "frame": "3 termos animados",
+      "vo": "EC, LA e TPV explicados.",
+      "onscreen": "EC • LA • TPV"
+    },
+    {
+      "scene": 3,
+      "time": "24-30s",
+      "frame": "CTA",
+      "vo": "Parte completa no feed.",
+      "onscreen": "SE7EN PAY"
+    }
+  ],
+  "audio_note": "Trilha só como referência de clima: instrumental sóbrio, ritmo médio (~90-100 BPM), sem voz, sem material protegido.",
+  "accessibility": "Legendas na tela obrigatórias; versão sem áudio; versão com redução de movimento.",
+  "note": ""
+}

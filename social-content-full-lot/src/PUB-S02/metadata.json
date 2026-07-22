@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S02",
+  "name": "Caixa de perguntas sobre margem",
+  "pillar": "Margem Programável",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Relacionamento",
+  "cta": "Manda sua pergunta",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "description": "Coleta de dúvidas reais que viram conteúdo.",
+    "alt": "Story escuro com caixa de perguntas.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Perguntas recebidas",
+  "assets": [
+    "PUB-S02_p01_story.png",
+    "PUB-S02_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

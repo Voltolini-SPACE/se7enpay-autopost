@@ -1,0 +1,36 @@
+{
+  "id": "PUB-R04",
+  "name": "3 sinais de golpe",
+  "pillar": "Confiança & Segurança",
+  "format": "Reel 9:16",
+  "kind": "reel",
+  "readiness": "READY_AS_MOTION_GRAPHIC",
+  "duration_s": 30,
+  "cover": "PUB-R04_p01_story.png",
+  "storyboard": [
+    {
+      "scene": 1,
+      "time": "0-3s",
+      "frame": "Abre sóbrio",
+      "vo": "3 sinais de que pode ser golpe.",
+      "onscreen": "SEGURANÇA"
+    },
+    {
+      "scene": 2,
+      "time": "3-24s",
+      "frame": "Os 3 sinais",
+      "vo": "Pedem senha; criam urgência; oferta boa demais.",
+      "onscreen": "1 • 2 • 3"
+    },
+    {
+      "scene": 3,
+      "time": "24-30s",
+      "frame": "Conduta",
+      "vo": "A SE7EN PAY nunca pede sua senha. Confirme pelo canal oficial.",
+      "onscreen": "SE7EN PAY"
+    }
+  ],
+  "audio_note": "Trilha só como referência de clima: instrumental sóbrio, ritmo médio (~90-100 BPM), sem voz, sem material protegido.",
+  "accessibility": "Legendas na tela obrigatórias; versão sem áudio; versão com redução de movimento.",
+  "note": ""
+}

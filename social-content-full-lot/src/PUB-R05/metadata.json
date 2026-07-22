@@ -1,0 +1,36 @@
+{
+  "id": "PUB-R05",
+  "name": "Quem opera a SE7EN",
+  "pillar": "Gente SE7EN",
+  "format": "Reel 9:16",
+  "kind": "reel",
+  "readiness": "READY_FOR_RECORDING",
+  "duration_s": 25,
+  "cover": "PUB-R05_p01_story.png",
+  "storyboard": [
+    {
+      "scene": 1,
+      "time": "0-3s",
+      "frame": "Bastidor abre",
+      "vo": "Quem opera a SE7EN.",
+      "onscreen": "BASTIDOR"
+    },
+    {
+      "scene": 2,
+      "time": "3-20s",
+      "frame": "Cortes da operação (foto/gravação oficial)",
+      "vo": "Pessoas no centro de uma operação em tempo real.",
+      "onscreen": "GENTE SE7EN"
+    },
+    {
+      "scene": 3,
+      "time": "20-25s",
+      "frame": "CTA",
+      "vo": "Conheça o time.",
+      "onscreen": "SE7EN PAY"
+    }
+  ],
+  "audio_note": "Trilha só como referência de clima: instrumental sóbrio, ritmo médio (~90-100 BPM), sem voz, sem material protegido.",
+  "accessibility": "Legendas na tela obrigatórias; versão sem áudio; versão com redução de movimento.",
+  "note": "OFFICIAL_PHOTO_RECOMMENDED_BEFORE_PUBLICATION"
+}

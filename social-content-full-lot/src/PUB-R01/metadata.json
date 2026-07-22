@@ -1,0 +1,50 @@
+{
+  "id": "PUB-R01",
+  "name": "Mito x fato: margem operacional",
+  "pillar": "Quanto Sobra",
+  "format": "Reel 9:16",
+  "kind": "reel",
+  "readiness": "READY_FOR_RECORDING",
+  "duration_s": 30,
+  "cover": "PUB-R01_p01_story.png",
+  "storyboard": [
+    {
+      "scene": 1,
+      "time": "0-3s",
+      "frame": "Porta-voz SE7EN, fundo dark, eyebrow MITO x FATO",
+      "vo": "—",
+      "onscreen": "MITO x FATO"
+    },
+    {
+      "scene": 2,
+      "time": "3-12s",
+      "frame": "Mito 1 / Fato 1",
+      "vo": "Mito: só a taxa importa. Fato: o que decide é a margem operacional.",
+      "onscreen": "MITO • FATO"
+    },
+    {
+      "scene": 3,
+      "time": "12-20s",
+      "frame": "Mito 2 / Fato 2",
+      "vo": "Mito: taxa é custo fixo. Fato: depende do arranjo e da captura.",
+      "onscreen": "MITO • FATO"
+    },
+    {
+      "scene": 4,
+      "time": "20-28s",
+      "frame": "Mito 3 / Fato 3",
+      "vo": "Mito: não dá para acompanhar. Fato: com operação em tempo real, dá.",
+      "onscreen": "MITO • FATO"
+    },
+    {
+      "scene": 5,
+      "time": "28-30s",
+      "frame": "Logo + CTA",
+      "vo": "Fale com a SE7EN PAY.",
+      "onscreen": "SE7EN PAY"
+    }
+  ],
+  "audio_note": "Trilha só como referência de clima: instrumental sóbrio, ritmo médio (~90-100 BPM), sem voz, sem material protegido.",
+  "accessibility": "Legendas na tela obrigatórias; versão sem áudio; versão com redução de movimento.",
+  "note": "OFFICIAL_PHOTO_RECOMMENDED_BEFORE_PUBLICATION"
+}

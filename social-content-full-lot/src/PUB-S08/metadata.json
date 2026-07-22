@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S08",
+  "name": "Fale com a SE7EN",
+  "pillar": "Relacionamento",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Decisão",
+  "cta": "Fale com a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "description": "CTA de contato em 2 telas.",
+    "alt": "Story escuro com chamada para contato.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Cliques no link",
+  "assets": [
+    "PUB-S08_p01_story.png",
+    "PUB-S08_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

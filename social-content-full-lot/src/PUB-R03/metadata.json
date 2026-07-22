@@ -1,0 +1,36 @@
+{
+  "id": "PUB-R03",
+  "name": "O que é infraestrutura de monetização",
+  "pillar": "Infraestrutura",
+  "format": "Reel 9:16",
+  "kind": "reel",
+  "readiness": "READY_AS_MOTION_GRAPHIC",
+  "duration_s": 35,
+  "cover": "PUB-R03_p01_story.png",
+  "storyboard": [
+    {
+      "scene": 1,
+      "time": "0-3s",
+      "frame": "Manifesto abre",
+      "vo": "Não é sobre a máquina.",
+      "onscreen": "INFRAESTRUTURA"
+    },
+    {
+      "scene": 2,
+      "time": "3-22s",
+      "frame": "3 camadas animadas",
+      "vo": "Capturar, programar a margem, operar em tempo real.",
+      "onscreen": "CAPTURAR • PROGRAMAR • OPERAR"
+    },
+    {
+      "scene": 3,
+      "time": "22-35s",
+      "frame": "Fechamento",
+      "vo": "É sobre o que ela faz pela sua receita.",
+      "onscreen": "SE7EN PAY"
+    }
+  ],
+  "audio_note": "Trilha só como referência de clima: instrumental sóbrio, ritmo médio (~90-100 BPM), sem voz, sem material protegido.",
+  "accessibility": "Legendas na tela obrigatórias; versão sem áudio; versão com redução de movimento.",
+  "note": ""
+}

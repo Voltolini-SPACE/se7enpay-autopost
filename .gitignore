@@ -1,0 +1,7 @@
+*.token
+.ig_token
+.ig_userid
+.api_key
+*.env
+.env
+secrets/

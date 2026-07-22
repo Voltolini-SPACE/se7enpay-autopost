@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S01",
+  "name": "Enquete: você sabe o que é take rate?",
+  "pillar": "Margem Programável",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Consideração",
+  "cta": "Salve o glossário no feed",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "description": "Enquete educativa em 2 telas sobre take rate.",
+    "alt": "Story escuro com enquete e card de resposta.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Interações na enquete",
+  "assets": [
+    "PUB-S01_p01_story.png",
+    "PUB-S01_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

@@ -1,0 +1,23 @@
+{
+  "id": "PUB-S04",
+  "name": "Quiz: o que é markup?",
+  "pillar": "Margem Programável",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Consideração",
+  "cta": "Salve o glossário",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "description": "Quiz de 3 telas ensinando o conceito de markup.",
+    "alt": "Story escuro com quiz e resposta.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Acertos/interações",
+  "assets": [
+    "PUB-S04_p01_story.png",
+    "PUB-S04_p02_story.png",
+    "PUB-S04_p03_story.png"
+  ],
+  "pages": 3,
+  "note": ""
+}

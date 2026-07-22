@@ -1,0 +1,34 @@
+{
+  "id": "PUB-006",
+  "pauta": "P35",
+  "name": "Glossário SE7EN parte 2",
+  "pillar": "Margem Programável",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "LAs",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Salve o glossário completo",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Mais cinco termos de quem opera pagamentos.",
+    "caption": "Continuando o glossário: Carteira — o conjunto de ECs sob um Licenciado. Arranjo — as bandeiras e contratos que regem a captura. White Label — operar pagamentos com a sua marca. Ponto de captura — onde a receita entra. Margem operacional — o que sobra de verdade. Salve as duas partes.",
+    "alt": "Carrossel escuro com cinco termos de pagamentos, cada um com definição curta em cyan.",
+    "short": "Carteira, arranjo, White Label, ponto de captura, margem operacional.",
+    "whatsapp": "Parte 2 do glossário: carteira, arranjo, White Label, ponto de captura e margem operacional. Quer aprofundar algum?",
+    "sales": "Complemento de onboarding para Licenciados.",
+    "pinned_comment": "Glossário completo salvo? Falta algum termo? Sugere aqui.",
+    "faq_answer": "'O que é White Label?' É operar pagamentos com a sua própria marca.",
+    "hashtags": "#SE7ENPAY #Glossário #Pagamentos #Licenciado #WhiteLabel"
+  },
+  "assets": [
+    "PUB-006_p01_v45.png",
+    "PUB-006_p02_v45.png",
+    "PUB-006_p03_v45.png",
+    "PUB-006_p04_v45.png",
+    "PUB-006_p05_v45.png",
+    "PUB-006_p06_v45.png"
+  ],
+  "pages": 6,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

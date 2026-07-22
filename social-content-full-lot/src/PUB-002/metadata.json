@@ -1,0 +1,33 @@
+{
+  "id": "PUB-002",
+  "pauta": "P02",
+  "name": "Infraestrutura de monetização, explicada",
+  "pillar": "Infraestrutura",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "Prospects",
+  "funnel": "Descoberta",
+  "objective": "Educar",
+  "cta": "Conheça a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Infraestrutura de monetização, explicada.",
+    "caption": "Muita gente vende equipamento. A SE7EN PAY entrega outra coisa: capacidade de gerar dinheiro com pagamentos. Infraestrutura de monetização é o conjunto que captura a venda, programa como a margem se distribui e opera em tempo real. Não é sobre a máquina. É sobre o que ela faz pela sua receita.",
+    "alt": "Carrossel escuro explicando em camadas o conceito de infraestrutura de monetização, com destaques em cyan.",
+    "short": "Não é sobre a máquina. É sobre o que ela faz pela sua receita.",
+    "whatsapp": "Infraestrutura de monetização é o conjunto que captura a venda, programa a margem e opera em tempo real. É o que a SE7EN PAY entrega. Quer saber mais?",
+    "sales": "Explica por que a SE7EN é categoria diferente de uma revenda de equipamento.",
+    "pinned_comment": "Curtiu a ideia de infraestrutura de monetização? Manda sua dúvida nos comentários.",
+    "faq_answer": "'Qual a diferença para uma maquininha comum?' A SE7EN PAY entrega a infraestrutura por trás: captura, margem programável e operação em tempo real.",
+    "hashtags": "#SE7ENPAY #InfraestruturaDePagamento #Pagamentos #MargemProgramável #Fintech"
+  },
+  "assets": [
+    "PUB-002_p01_v45.png",
+    "PUB-002_p02_v45.png",
+    "PUB-002_p03_v45.png",
+    "PUB-002_p04_v45.png",
+    "PUB-002_p05_v45.png"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

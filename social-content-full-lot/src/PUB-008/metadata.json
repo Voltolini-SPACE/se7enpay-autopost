@@ -1,0 +1,33 @@
+{
+  "id": "PUB-008",
+  "pauta": "P14",
+  "name": "O que é uma carteira de ECs",
+  "pillar": "O Licenciado",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "LA potencial",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Fale sobre licenciamento",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "O que é uma carteira de estabelecimentos.",
+    "caption": "Uma carteira é o conjunto de Estabelecimentos Comerciais que um Licenciado Autorizado gere. O LA acompanha o volume transacionado, cuida do relacionamento e opera sua margem com a infraestrutura da SE7EN PAY. Ser LA é operar pagamentos com método.",
+    "alt": "Carrossel escuro com um diagrama de um Licenciado conectado a vários estabelecimentos, em cyan.",
+    "short": "Carteira é o conjunto de ECs que um Licenciado gere.",
+    "whatsapp": "Ser Licenciado é gerir uma carteira de estabelecimentos com método — volume, relacionamento e margem. Quer saber como funciona o licenciamento?",
+    "sales": "Apresenta o papel do LA — público subatendido no mercado.",
+    "pinned_comment": "Quer entender o modelo de licenciamento? Manda mensagem no link da bio.",
+    "faq_answer": "'Como viro Licenciado?' Fale com a gente pelo link da bio que explicamos o processo.",
+    "hashtags": "#SE7ENPAY #Licenciado #Pagamentos #Carteira #Empreendedorismo"
+  },
+  "assets": [
+    "PUB-008_p01_v45.png",
+    "PUB-008_p02_v45.png",
+    "PUB-008_p03_v45.png",
+    "PUB-008_p04_v45.png",
+    "PUB-008_p05_v45.png"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

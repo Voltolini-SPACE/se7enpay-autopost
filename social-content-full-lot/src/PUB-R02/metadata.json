@@ -1,0 +1,43 @@
+{
+  "id": "PUB-R02",
+  "name": "Take rate em 40 segundos",
+  "pillar": "Margem Programável",
+  "format": "Reel 9:16",
+  "kind": "reel",
+  "readiness": "READY_AS_MOTION_GRAPHIC",
+  "duration_s": 40,
+  "cover": "PUB-R02_p01_story.png",
+  "storyboard": [
+    {
+      "scene": 1,
+      "time": "0-3s",
+      "frame": "Título animado",
+      "vo": "O que é take rate?",
+      "onscreen": "TAKE RATE"
+    },
+    {
+      "scene": 2,
+      "time": "3-20s",
+      "frame": "Definição com diagrama TPV→margem",
+      "vo": "De tudo que passou, quanto virou margem.",
+      "onscreen": "TPV → MARGEM"
+    },
+    {
+      "scene": 3,
+      "time": "20-35s",
+      "frame": "Por que importa",
+      "vo": "Take rate mostra a saúde da operação.",
+      "onscreen": "SAÚDE DA OPERAÇÃO"
+    },
+    {
+      "scene": 4,
+      "time": "35-40s",
+      "frame": "CTA",
+      "vo": "Salve o glossário no feed.",
+      "onscreen": "SE7EN PAY"
+    }
+  ],
+  "audio_note": "Trilha só como referência de clima: instrumental sóbrio, ritmo médio (~90-100 BPM), sem voz, sem material protegido.",
+  "accessibility": "Legendas na tela obrigatórias; versão sem áudio; versão com redução de movimento.",
+  "note": ""
+}

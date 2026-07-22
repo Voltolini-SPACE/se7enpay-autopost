@@ -1,0 +1,23 @@
+{
+  "id": "PUB-S05",
+  "name": "3 sinais de golpe",
+  "pillar": "Confiança & Segurança",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Confiança",
+  "cta": "Salve e compartilhe",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "description": "Educação antifraude em 3 telas.",
+    "alt": "Story escuro com 3 sinais e conduta.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Saves/compartilhamentos",
+  "assets": [
+    "PUB-S05_p01_story.png",
+    "PUB-S05_p02_story.png",
+    "PUB-S05_p03_story.png"
+  ],
+  "pages": 3,
+  "note": ""
+}

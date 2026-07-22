@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S11",
+  "name": "Reforço: operação em tempo real",
+  "pillar": "Infraestrutura",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Consideração",
+  "cta": "Saiba mais",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "description": "Reforça o valor de operar em tempo real.",
+    "alt": "Story escuro sobre tempo real.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Visualizações",
+  "assets": [
+    "PUB-S11_p01_story.png",
+    "PUB-S11_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "PUB-011",
+  "pauta": "P23",
+  "name": "Operação em tempo real",
+  "pillar": "Confiança & Segurança",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "EC/LA",
+  "funnel": "Consideração",
+  "objective": "Posicionar",
+  "cta": "Saiba mais",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Operação em tempo real.",
+    "caption": "Acompanhar a operação enquanto ela acontece muda como você decide. Tempo real é controle.",
+    "alt": "Arte estática escura com a expressão operação em tempo real em cyan.",
+    "short": "Tempo real é controle.",
+    "whatsapp": "Operar em tempo real muda como você decide — você acompanha enquanto acontece. Quer entender o que isso significa na prática?",
+    "sales": "Reforça o posicionamento institucional de operação em tempo real.",
+    "pinned_comment": "O que você faria diferente vendo sua operação em tempo real? Comenta.",
+    "faq_answer": "'Tempo real significa D+0?' Tempo real é sobre acompanhar a operação ao vivo; prazos específicos são confirmados caso a caso.",
+    "hashtags": "#SE7ENPAY #TempoReal #Pagamentos #InfraestruturaDePagamento"
+  },
+  "assets": [
+    "PUB-011_p01_v45.png"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

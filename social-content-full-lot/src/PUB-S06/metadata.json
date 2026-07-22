@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S06",
+  "name": "Introdução ao glossário",
+  "pillar": "Margem Programável",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Consideração",
+  "cta": "Toque para ver",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "description": "Chama a atenção para o carrossel de glossário no feed.",
+    "alt": "Story escuro apontando para o feed.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Cliques para o feed",
+  "assets": [
+    "PUB-S06_p01_story.png",
+    "PUB-S06_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

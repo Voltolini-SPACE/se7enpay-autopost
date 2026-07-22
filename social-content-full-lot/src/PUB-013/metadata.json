@@ -1,0 +1,33 @@
+{
+  "id": "PUB-013",
+  "pauta": "P16",
+  "name": "Ser Licenciado é operar com método",
+  "pillar": "O Licenciado",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "LA",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Fale sobre licenciamento",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Ser Licenciado é operar com método.",
+    "caption": "Ser Licenciado Autorizado é operar com método: gerir a carteira de estabelecimentos com clareza, acompanhar o take rate e a margem operacional, e estar perto de cada EC. Método vira operação sólida.",
+    "alt": "Carrossel escuro com três pilares da atuação do Licenciado, em cyan.",
+    "short": "Método vira operação sólida.",
+    "whatsapp": "Ser Licenciado é operar com método: carteira, margem e relacionamento. Quer entender o modelo?",
+    "sales": "Mostra as alavancas de atuação do LA sem prometer ganho.",
+    "pinned_comment": "Qual pilar você acha mais difícil: carteira, margem ou relacionamento?",
+    "faq_answer": "'Preciso de experiência para ser LA?' Fale com a gente pelo link da bio que explicamos os requisitos.",
+    "hashtags": "#SE7ENPAY #Licenciado #Pagamentos #Empreendedorismo"
+  },
+  "assets": [
+    "PUB-013_p01_v45.png",
+    "PUB-013_p02_v45.png",
+    "PUB-013_p03_v45.png",
+    "PUB-013_p04_v45.png",
+    "PUB-013_p05_v45.png"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

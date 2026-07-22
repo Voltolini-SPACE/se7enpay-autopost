@@ -1,0 +1,32 @@
+{
+  "id": "PUB-012",
+  "pauta": "P50",
+  "name": "O que significa escalar",
+  "pillar": "Infraestrutura",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "LA/Mercado",
+  "funnel": "Descoberta",
+  "objective": "Posicionar",
+  "cta": "Conheça a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "O que a SE7EN PAY quer dizer com escalar.",
+    "caption": "Escalar não é só vender mais. É crescer sem perder o controle. A infraestrutura sustenta o crescimento: captura, margem e operação no mesmo lugar. Escalar com método, não com sorte.",
+    "alt": "Carrossel escuro explicando o conceito de escalar, com destaques cyan.",
+    "short": "Escalar com método, não com sorte.",
+    "whatsapp": "Para a SE7EN PAY, escalar é crescer sem perder o controle — com captura, margem e operação no mesmo lugar. Quer saber como?",
+    "sales": "Aprofunda o significado de escalar na visão da marca.",
+    "pinned_comment": "Escalar com método faz sentido pra você? Comenta aqui.",
+    "faq_answer": "'Escalar não é só crescer?' Crescer sem controle vira problema; escalar é crescer com infraestrutura que sustenta.",
+    "hashtags": "#SE7ENPAY #Escala #Pagamentos #InfraestruturaDePagamento"
+  },
+  "assets": [
+    "PUB-012_p01_v45.png",
+    "PUB-012_p02_v45.png",
+    "PUB-012_p03_v45.png",
+    "PUB-012_p04_v45.png"
+  ],
+  "pages": 4,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "PUB-005",
+  "pauta": "P26",
+  "name": "Taxa não é custo: é margem operacional",
+  "pillar": "Quanto Sobra",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "EC",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Fale com a SE7EN PAY",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "title": "Você olha a taxa. Devia olhar a margem.",
+    "caption": "Taxa é só um número isolado. O que decide o seu mês é a margem operacional: o que sobra depois de tudo. Duas operações com a mesma taxa podem deixar sobras diferentes. Pare de comparar taxas soltas. Compare quanto fica com você.",
+    "alt": "Carrossel escuro no formato mito x fato, contrastando taxa e margem operacional com destaques cyan.",
+    "short": "Pare de comparar taxas soltas. Compare quanto fica com você.",
+    "whatsapp": "Comparar só a taxa engana. O que decide o mês é a margem operacional — quanto sobra depois de tudo. Quer que eu te mostre como pensar nisso?",
+    "sales": "Reposiciona a objeção de preço para a conversa de margem.",
+    "pinned_comment": "Você compara taxa ou margem? Conta aqui embaixo.",
+    "faq_answer": "'A menor taxa não é sempre melhor?' Nem sempre: o que importa é a margem operacional, o que realmente sobra.",
+    "hashtags": "#SE7ENPAY #MargemOperacional #Pagamentos #GestãoFinanceira #EstabelecimentoComercial"
+  },
+  "assets": [
+    "PUB-005_p01_v45.png",
+    "PUB-005_p02_v45.png",
+    "PUB-005_p03_v45.png",
+    "PUB-005_p04_v45.png"
+  ],
+  "pages": 4,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

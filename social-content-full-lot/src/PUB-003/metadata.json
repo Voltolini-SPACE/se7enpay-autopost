@@ -1,0 +1,30 @@
+{
+  "id": "PUB-003",
+  "pauta": "P03",
+  "name": "A SE7EN não vende tecnologia",
+  "pillar": "Infraestrutura",
+  "format": "Estático 4:5 + 1:1",
+  "kind": "static",
+  "audience": "Mercado",
+  "funnel": "Descoberta",
+  "objective": "Posicionar",
+  "cta": "Fale com a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "A SE7EN PAY não vende tecnologia.",
+    "caption": "A SE7EN PAY não vende tecnologia. Entrega capacidade de gerar dinheiro com pagamentos. Tecnologia é meio. Receita é o ponto.",
+    "alt": "Arte tipográfica escura com a frase institucional em Fraunces e acento cyan.",
+    "short": "Tecnologia é meio. Receita é o ponto.",
+    "whatsapp": "A SE7EN PAY não vende tecnologia — entrega capacidade de gerar dinheiro com pagamentos. Quer conversar sobre isso?",
+    "sales": "Cartão de posicionamento para abrir conversa comercial.",
+    "pinned_comment": "Tecnologia é meio, receita é o ponto. Concorda? Comenta aí.",
+    "faq_answer": "'Então vocês não são de tecnologia?' Usamos tecnologia como meio; o que entregamos é capacidade de gerar receita com pagamentos.",
+    "hashtags": "#SE7ENPAY #Pagamentos #InfraestruturaDePagamento #MeiosDePagamento"
+  },
+  "assets": [
+    "PUB-003_p01_v45.png",
+    "PUB-003_p02_sq.png"
+  ],
+  "pages": 2,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

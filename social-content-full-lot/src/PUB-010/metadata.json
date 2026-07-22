@@ -1,0 +1,33 @@
+{
+  "id": "PUB-010",
+  "pauta": "P28",
+  "name": "3 perguntas antes de escolher sua captura",
+  "pillar": "Quanto Sobra",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "EC",
+  "funnel": "Consideração",
+  "objective": "Educar",
+  "cta": "Fale com a SE7EN PAY",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "title": "3 perguntas antes de escolher como capturar receita.",
+    "caption": "Antes de decidir, pergunte: 1. Quanto sobra de margem operacional, e não só qual a taxa? 2. Como e quando acontece o repasse? 3. Você consegue acompanhar a operação em tempo real? Boas perguntas levam a boas decisões.",
+    "alt": "Carrossel escuro com três perguntas numeradas em cyan sobre fundo dark.",
+    "short": "3 perguntas antes de escolher sua captura de receita.",
+    "whatsapp": "Antes de escolher como capturar receita, faça 3 perguntas: margem, repasse e tempo real. Quer que eu te ajude a responder?",
+    "sales": "Dá critério de decisão ao EC sem prometer superioridade de preço.",
+    "pinned_comment": "Qual dessas 3 perguntas você nunca tinha feito? Conta aqui.",
+    "faq_answer": "'Qual a mais importante?' Depende do seu negócio — por isso comece perguntando quanto sobra de margem.",
+    "hashtags": "#SE7ENPAY #Pagamentos #MargemOperacional #GestãoFinanceira #EstabelecimentoComercial"
+  },
+  "assets": [
+    "PUB-010_p01_v45.png",
+    "PUB-010_p02_v45.png",
+    "PUB-010_p03_v45.png",
+    "PUB-010_p04_v45.png",
+    "PUB-010_p05_v45.png"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

@@ -1,0 +1,43 @@
+name: SE7EN PAY Autopost (grátis)
+
+# Agendador gratuito: roda a cada 15 minutos e publica o que estiver vencido no calendário.
+# GitHub Actions é gratuito (repos públicos) / tem cota generosa em privados.
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # a cada 15 min (horário UTC)
+  workflow_dispatch:          # permite rodar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write             # para gravar o estado (state/published.json) de volta
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Publicar o que estiver vencido
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MEDIA_BASE_URL: ${{ secrets.MEDIA_BASE_URL }}
+        run: python3 autopost-free/publish.py
+
+      - name: Salvar estado (evita republicar)
+        run: |
+          if [ -n "$(git status --porcelain autopost-free/state/published.json)" ]; then
+            git config user.name "se7en-autopost"
+            git config user.email "autopost@se7enpay.local"
+            git add autopost-free/state/published.json
+            git commit -m "autopost: atualiza estado de publicações"
+            git push
+          else
+            echo "Sem novas publicações."
+          fi

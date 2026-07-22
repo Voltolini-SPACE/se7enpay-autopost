@@ -1,0 +1,22 @@
+{
+  "id": "PUB-S03",
+  "name": "Enquete: TPV ou take rate?",
+  "pillar": "O Licenciado",
+  "format": "Story 9:16",
+  "kind": "story",
+  "funnel": "Consideração",
+  "cta": "Veja o glossário",
+  "source_class": "EDUCATIONAL_GENERAL",
+  "copy": {
+    "description": "Enquete de hábito de gestão + resposta educativa.",
+    "alt": "Story escuro com enquete e resposta.",
+    "hashtags": "#SE7ENPAY #Pagamentos"
+  },
+  "kpi": "Interações",
+  "assets": [
+    "PUB-S03_p01_story.png",
+    "PUB-S03_p02_story.png"
+  ],
+  "pages": 2,
+  "note": ""
+}

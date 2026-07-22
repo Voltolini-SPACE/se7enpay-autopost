@@ -1,0 +1,29 @@
+{
+  "id": "PUB-014",
+  "pauta": "P32",
+  "name": "Pessoas no centro de tudo",
+  "pillar": "Gente SE7EN",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "Comunidade",
+  "funnel": "Relacionamento",
+  "objective": "Relacionar",
+  "cta": "Conheça a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Pessoas no centro de tudo.",
+    "caption": "Por trás de uma operação em tempo real, há gente que cuida dela. Pessoas no centro de tudo. Gente SE7EN.",
+    "alt": "Arte estática escura com a frase pessoas no centro de tudo e acento cyan.",
+    "short": "Por trás da infraestrutura, tem gente.",
+    "whatsapp": "Por trás da infraestrutura da SE7EN PAY tem gente cuidando de cada detalhe. Quer conhecer o time?",
+    "sales": "Humaniza a marca; abre espaço para conteúdo de cultura.",
+    "pinned_comment": "Pessoas no centro de tudo. O que isso significa pra você?",
+    "faq_answer": "'Quem está por trás da SE7EN?' Um time que cuida da operação em tempo real — em breve mostramos os bastidores.",
+    "hashtags": "#SE7ENPAY #Cultura #GenteSE7EN #Pagamentos"
+  },
+  "assets": [
+    "PUB-014_p01_v45.png"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "PUB-015",
+  "pauta": "P20",
+  "name": "Como a SE7EN fala com você",
+  "pillar": "Confiança & Segurança",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "EC/LA",
+  "funnel": "Confiança",
+  "objective": "Proteger",
+  "cta": "Salve este aviso",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Como a SE7EN PAY fala com você.",
+    "caption": "A SE7EN PAY usa canais oficiais e nunca pede a sua senha. Se receber uma mensagem suspeita pedindo dados ou com urgência, desconfie e confirme pelo canal oficial. Segurança é rotina.",
+    "alt": "Arte estática escura sobre canais oficiais e segurança, com acento cyan.",
+    "short": "A SE7EN PAY nunca pede a sua senha.",
+    "whatsapp": "Lembrete de segurança: a SE7EN PAY nunca pede sua senha e usa canais oficiais. Na dúvida, confirme pelo canal oficial.",
+    "sales": "Utilidade pública que reforça confiança na marca.",
+    "pinned_comment": "A SE7EN PAY nunca pede sua senha. Salva e compartilha com quem precisa.",
+    "faq_answer": "'Como sei que é a SE7EN de verdade?' Pelos canais oficiais. Nunca compartilhe senha; na dúvida, confirme.",
+    "hashtags": "#SE7ENPAY #Segurança #PrevençãoAFraude #Pagamentos"
+  },
+  "assets": [
+    "PUB-015_p01_v45.png"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO"
+}
