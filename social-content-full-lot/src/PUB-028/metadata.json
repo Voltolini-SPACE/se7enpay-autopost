@@ -1,0 +1,27 @@
+{
+  "id": "PUB-028",
+  "name": "A carreira do licenciado tem degraus.",
+  "pillar": "O Licenciado",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "Novos LAs",
+  "funnel": "Consideração",
+  "cta": "Conheça o plano de carreira",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "A carreira do licenciado tem degraus.",
+    "caption": "O plano de carreira do licenciado SE7EN PAY tem oito categorias. Você sobe de degrau com a carteira: mais estabelecimentos ativos e mais volume. O caminho completo está em se7enpay.com.br/licenciados.",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: A carreira do licenciado tem degraus. / Começa pela carteira. / Cresce com o volume. / Muda o nível de apoio. / O caminho está no site.",
+    "hashtags": "#SE7ENPAY #Licenciado #Carreira #Pagamentos"
+  },
+  "assets": [
+    "PUB-028_p01_v45.jpg",
+    "PUB-028_p02_v45.jpg",
+    "PUB-028_p03_v45.jpg",
+    "PUB-028_p04_v45.jpg",
+    "PUB-028_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

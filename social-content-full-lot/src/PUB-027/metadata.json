@@ -1,0 +1,23 @@
+{
+  "id": "PUB-027",
+  "name": "Uma taxa só.",
+  "pillar": "Quanto Sobra",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "ECs",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Uma taxa só.",
+    "caption": "Na SE7EN PAY o estabelecimento vê uma taxa só por modalidade. Não precisa somar uma cobrança pela venda com outra pelo prazo de recebimento para saber quanto sobra. Clareza também é margem. Fale com um licenciado para conhecer a proposta da sua operação.",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Uma taxa só.",
+    "hashtags": "#SE7ENPAY #QuantoSobra #Pagamentos"
+  },
+  "assets": [
+    "PUB-027_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

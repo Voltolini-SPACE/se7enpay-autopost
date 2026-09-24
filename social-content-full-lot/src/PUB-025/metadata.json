@@ -1,0 +1,28 @@
+{
+  "id": "PUB-025",
+  "name": "Glossário SE7EN parte 3.",
+  "pillar": "Margem Programável",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "Novos LAs",
+  "funnel": "Consideração",
+  "cta": "Salve para consultar",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Glossário SE7EN parte 3.",
+    "caption": "Parte 3 do glossário SE7EN. Liquidação, antecipação, chargeback, carteira e white label. Termos que aparecem toda semana em quem opera pagamentos. Salve e compartilhe com a sua equipe.",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: Glossário SE7EN parte 3. / Liquidação. / Antecipação. / Chargeback. / Carteira. / White label.",
+    "hashtags": "#SE7ENPAY #Glossário #Pagamentos #Licenciado"
+  },
+  "assets": [
+    "PUB-025_p01_v45.jpg",
+    "PUB-025_p02_v45.jpg",
+    "PUB-025_p03_v45.jpg",
+    "PUB-025_p04_v45.jpg",
+    "PUB-025_p05_v45.jpg",
+    "PUB-025_p06_v45.jpg"
+  ],
+  "pages": 6,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
