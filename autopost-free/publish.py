@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 SE7EN PAY · Autopost próprio e gratuito (Instagram Graph API oficial da Meta).
+Feed (carrossel, imagem), Reels (vídeo) e stories (imagem ou vídeo); desde 26/09, 3 feeds e 3 stories por dia.
 Lê o calendário do lote, descobre o que está "vencido" (hora agendada já passou e ainda
 não foi publicado) e publica via API. Sem mensalidade, sem servidor pago.
 
@@ -52,7 +53,13 @@ def media_files(pid,kind):
     ad=os.path.join(LOT,"src",pid,"assets")
     if kind=="carousel": return [f for f in sorted(glob.glob(os.path.join(ad,f"{pid}_p*_v45.jpg"))) if "_light" not in f]
     if kind=="static":   f=os.path.join(ad,f"{pid}_p01_v45.jpg"); return [f] if os.path.exists(f) else []
-    f=os.path.join(ad,f"{pid}_p01_story.jpg"); return [f] if os.path.exists(f) else []
+    if kind=="reel":     # 26/09: vídeo 9:16 feito pela Mila; a capa (jpg) vai junto quando existe
+        f=os.path.join(ad,f"{pid}_p01_reel.mp4"); c=os.path.join(ad,f"{pid}_p01_reel.jpg")
+        return ([f]+([c] if os.path.exists(c) else [])) if os.path.exists(f) else []
+    for ext in ("mp4","jpg"):  # story: vídeo ou imagem
+        f=os.path.join(ad,f"{pid}_p01_story.{ext}")
+        if os.path.exists(f): return [f]
+    return []
 def media_url(base,pid,localfile):
     rel=os.path.relpath(localfile, LOT).replace(os.sep,"/")
     return f"{base.rstrip('/')}/{rel}"
@@ -62,17 +69,16 @@ def caption(pid,m):
 def sp_utc(data,hora):
     return datetime.datetime.strptime(f"{data} {hora}","%d/%m/%Y %H:%M").replace(tzinfo=SP).astimezone(UTC)
 
-def eligible_rows(now, state, include_stories=False, window_hours=48):
+def eligible_rows(now, state, include_stories=True, window_hours=48):
     rows=list(csv.DictReader(open(CAL,encoding="utf-8")))
     due=[]; skip=[]
     for r in rows:
         pid=r["ID"]; m=meta(pid); k=kind_of(pid,m)
         uid=f"{pid}@{r['Data']} {r['Horario']}"
         if uid in state["published"]: continue
-        if k=="reel": skip.append((pid,"Reel precisa de vídeo (temos só capa)")); continue
-        if k=="story" and not include_stories: skip.append((pid,"Story interativo → manual")); continue
+        if k=="story" and not include_stories: skip.append((pid,"stories desligados (--sem-stories)")); continue
         files=media_files(pid,k)
-        if not files: skip.append((pid,"sem imagem")); continue
+        if not files: skip.append((pid,"Reel sem vídeo (só roteiro e capa)" if k=="reel" else "sem imagem")); continue
         when=sp_utc(r["Data"],r["Horario"])
         if when<=now and when>=now-datetime.timedelta(hours=window_hours):
             due.append((uid,r,m,k,files,when))
@@ -84,12 +90,25 @@ def api_post(url, data):
     except Exception: j={"error":{"message":r.text}}
     return r.status_code, j
 
+def wait_ready(creation, token, limit_s=300):
+    """Vídeo (e às vezes imagem) é processado pela Meta antes de publicar: espera status FINISHED."""
+    t0=time.time()
+    while True:
+        r=requests.get(f"{GRAPH}/{creation}",params={"fields":"status_code,status","access_token":token},timeout=30)
+        try: j=r.json()
+        except Exception: j={}
+        st=j.get("status_code")
+        if st in ("FINISHED","PUBLISHED") or (st is None and "error" not in j and time.time()-t0>6): return
+        if st=="ERROR" or "error" in j: raise RuntimeError(f"processamento falhou: {j.get('status') or j.get('error')}")
+        if time.time()-t0>limit_s: raise RuntimeError(f"processamento não terminou em {limit_s}s (status {st})")
+        time.sleep(5)
+
 def publish_one(igid, token, base, pid, m, kind, files, dry):
     urls=[media_url(base,pid,f) for f in files]
     cap=caption(pid,m)
     if dry:
-        print(f"    would publish {kind} · {len(urls)} img · caption[{len(cap)} chars]")
-        for u in urls: print(f"      image_url={u}")
+        print(f"    would publish {kind} · {len(urls)} arquivo(s) · caption[{len(cap)} chars]")
+        for u in urls: print(f"      url={u}")
         return "DRY-"+pid
     if kind=="carousel":
         children=[]
@@ -98,13 +117,20 @@ def publish_one(igid, token, base, pid, m, kind, files, dry):
             if "id" not in j: raise RuntimeError(f"child fail: {j}")
             children.append(j["id"])
         sc,j=api_post(f"{GRAPH}/{igid}/media",{"media_type":"CAROUSEL","children":",".join(children),"caption":cap,"access_token":token})
-    else:  # static feed image (ou story se include_stories)
+    elif kind=="reel":
+        params={"media_type":"REELS","video_url":urls[0],"caption":cap,"share_to_feed":"true","access_token":token}
+        if len(urls)>1: params["cover_url"]=urls[1]
+        sc,j=api_post(f"{GRAPH}/{igid}/media",params)
+    else:  # static feed image ou story (imagem ou vídeo)
         params={"image_url":urls[0],"caption":cap,"access_token":token}
-        if kind=="story": params={"image_url":urls[0],"media_type":"STORIES","access_token":token}
+        if kind=="story":
+            params={"media_type":"STORIES","access_token":token}
+            params["video_url" if urls[0].endswith(".mp4") else "image_url"]=urls[0]
         sc,j=api_post(f"{GRAPH}/{igid}/media",params)
     if "id" not in j: raise RuntimeError(f"container fail: {j}")
     creation=j["id"]
     time.sleep(3)  # dá tempo do container processar
+    wait_ready(creation, token, 300 if (kind=="reel" or urls[0].endswith(".mp4")) else 60)
     sc,j=api_post(f"{GRAPH}/{igid}/media_publish",{"creation_id":creation,"access_token":token})
     if "id" not in j: raise RuntimeError(f"publish fail: {j}")
     return j["id"]
@@ -113,7 +139,8 @@ def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("--dry-run",action="store_true")
     ap.add_argument("--now",default="")
-    ap.add_argument("--include-stories",action="store_true")
+    ap.add_argument("--include-stories",action="store_true",help="(padrão desde 26/09; mantido por compatibilidade)")
+    ap.add_argument("--sem-stories",action="store_true")
     a=ap.parse_args()
     now=datetime.datetime.strptime(a.now,"%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=UTC) if a.now else datetime.datetime.now(UTC)
     state=load_state()
@@ -122,7 +149,7 @@ def main():
     print(f"=== AUTOPOST GRATUITO (Meta Graph API) ===")
     print(f"Agora (UTC): {now.strftime('%Y-%m-%dT%H:%M:%SZ')} · Calendário: {os.path.basename(CAL)}")
     print(f"Base de mídia: {base}")
-    due,skip=eligible_rows(now,state,a.include_stories)
+    due,skip=eligible_rows(now,state,not a.sem_stories)
     print(f"Vencidas para publicar agora: {len(due)}")
     if not a.dry_run:
         if requests is None: print("ERRO: 'requests' não instalado."); sys.exit(1)
