@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202610-13",
+  "name": "App Empresa margem clara",
+  "pillar": "Estabelecimento comercial",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "App Empresa margem clara",
+    "caption": "No fim do dia, a conta fecha sozinha. O app Empresa faz a distribuição programável de margem na hora da venda. Sem planilhas. Sem confusão. Você sabe exatamente quanto sobra. Ideal para lojistas e prestadores que querem clareza. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes)",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Seu dinheiro, separado na hora",
+    "hashtags": "#SE7ENPAY #Pagamentos #GestãoFinanceira #ComercioLocal"
+  },
+  "assets": [
+    "PUB-202610-13_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
