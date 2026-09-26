@@ -1,0 +1,17 @@
+{
+  "id": "PUB-S20261001-2",
+  "name": "Story (cartao) de PUB-202610-01",
+  "kind": "story",
+  "base": "PUB-202610-01",
+  "format": "Story 9:16",
+  "copy": {
+    "caption": "",
+    "hashtags": ""
+  },
+  "assets": [
+    "PUB-S20261001-2_p01_story.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "segue a peça PUB-202610-01"
+}

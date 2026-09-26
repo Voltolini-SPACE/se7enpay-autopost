@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202610-05",
+  "name": "Margem clara no checkout",
+  "pillar": "Estabelecimento comercial",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Margem clara no checkout",
+    "caption": "O lojista precisa saber o que é seu e o que é da operadora. Nossa infraestrutura de processamento oferece checkout, recorrência e tokenização com clareza total. Você define as regras. O sistema aplica. Sem cálculos manuais no fim do dia. Receba com segurança e controle sua margem. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes)",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Sabe quanto sobra da venda?",
+    "hashtags": "#SE7ENPAY #Pagamentos #Comercio #GestaoFinanceira"
+  },
+  "assets": [
+    "PUB-202610-05_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
