@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202610-27",
+  "name": "Padaria margens claras",
+  "pillar": "Estabelecimento comercial",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Padaria margens claras",
+    "caption": "O dono da padaria sabe o valor da venda. Mas nem sempre sabe quanto sobra para cada conta. A distribuição programável de margem resolve isso. Você define as regras. O sistema separa automaticamente. Sem planilhas. Sem confusão. Receba com clareza e foque no seu negócio. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes).",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: Padaria: quanto sobra? / Sem confusão no caixa / Regra definida antes / Receita automática / Controle total",
+    "hashtags": "#SE7ENPAY #Pagamentos #ComercioLocal"
+  },
+  "assets": [
+    "PUB-202610-27_p01_v45.jpg",
+    "PUB-202610-27_p02_v45.jpg",
+    "PUB-202610-27_p03_v45.jpg",
+    "PUB-202610-27_p04_v45.jpg",
+    "PUB-202610-27_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

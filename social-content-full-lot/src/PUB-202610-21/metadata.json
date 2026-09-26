@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202610-21",
+  "name": "Recorrência e margem clara",
+  "pillar": "Estabelecimento comercial",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Comente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Recorrência e margem clara",
+    "caption": "Vender por assinatura exige controle. Sem integração entre TEF, PDV e ERP, a margem de lucro fica escondida. Você não sabe quanto sobra de cada venda. Isso gera erros e perda de tempo. Com a infraestrutura da SE7EN PAY, a distribuição programável de margem ocorre automaticamente. O dinheiro entra organizado. O caixa fecha certo. Seu licenciado tem clareza. Pare de adivinhar. Comece a gerir. Comente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: Assinatura ou mensalidade? / O caos do caixa / A virada de chave / Distribuição programável / Controle total",
+    "hashtags": "#SE7ENPAY #gestaofinanceira #comercio #pagamentos"
+  },
+  "assets": [
+    "PUB-202610-21_p01_v45.jpg",
+    "PUB-202610-21_p02_v45.jpg",
+    "PUB-202610-21_p03_v45.jpg",
+    "PUB-202610-21_p04_v45.jpg",
+    "PUB-202610-21_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202610-29",
+  "name": "Erro comum na divisão de vendas",
+  "pillar": "Estabelecimento comercial",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Erro comum na divisão de vendas",
+    "caption": "A confusão no caixa custa tempo e dinheiro. Evite cálculos manuais no fim do dia. Com a conta digital da SE7EN PAY, a distribuição programável de margem faz o trabalho por você. O valor é separado na hora da venda. Você sabe quanto sobra. Mais clareza para sua operação. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes).",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: Confusão no caixa? / O erro comum / A solução clara / Exemplo prático / Controle total",
+    "hashtags": "#SE7ENPAY #ControleFinanceiro #Pagamentos"
+  },
+  "assets": [
+    "PUB-202610-29_p01_v45.jpg",
+    "PUB-202610-29_p02_v45.jpg",
+    "PUB-202610-29_p03_v45.jpg",
+    "PUB-202610-29_p04_v45.jpg",
+    "PUB-202610-29_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
