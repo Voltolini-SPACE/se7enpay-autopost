@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202611-43",
+  "name": "TEF integrado ao PDV e ERP",
+  "pillar": "Estabelecimento comercial",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Comente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "TEF integrado ao PDV e ERP",
+    "caption": "Você já passou por aquela confusão no fim do dia? O cliente paga, mas na hora de separar o lucro e as comissões, os números não batem. A falta de integração entre o pagamento e o sistema gera perda de tempo e erros humanos.\n\nA solução é ter o TEF integrado ao PDV e ao ERP. Isso significa que, no momento da venda, a infraestrutura de processamento já executa a distribuição programável de margem. O dinheiro do lojista e do parceiro vai para os lugares certos, automaticamente.\n\nChega de planilhas e conferências manuais. Tenha clareza sobre quanto sobra de cada venda em tempo real. Seu licenciado foca no atendimento, a tecnologia cuida da matemática.\n\nComente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: O dinheiro da venda some? / A confusão do caixa / A virada de chave / Margem definida, sem erro / Controle total no bolso",
+    "hashtags": "#SE7ENPAY #Comercio #GestaoFinanceira #Pagamentos"
+  },
+  "assets": [
+    "PUB-202611-43_p01_v45.jpg",
+    "PUB-202611-43_p02_v45.jpg",
+    "PUB-202611-43_p03_v45.jpg",
+    "PUB-202611-43_p04_v45.jpg",
+    "PUB-202611-43_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

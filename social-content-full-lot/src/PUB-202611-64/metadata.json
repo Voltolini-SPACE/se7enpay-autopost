@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202611-64",
+  "name": "White label explicação fluxo",
+  "pillar": "White label",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "operações com volume que querem oferecer pagamentos com a própria marca",
+  "funnel": "Consideração",
+  "cta": "Conheça o white label SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "White label explicação fluxo",
+    "caption": "O dinheiro da venda entra na sua conta. A infraestrutura é nossa. A experiência é sua. Operações com volume precisam de exclusividade. Ofereça pagamentos com a sua marca. A SE7EN PAY entrega a tecnologia e o suporte. Você foca no crescimento. Conheça o white label SE7EN PAY (se7enpay.com.br/white-label).",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Sua marca. Seu dinheiro. Seu controle.",
+    "hashtags": "#SE7ENPAY #WhiteLabel #Pagamentos #Infraestrutura"
+  },
+  "assets": [
+    "PUB-202611-64_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
