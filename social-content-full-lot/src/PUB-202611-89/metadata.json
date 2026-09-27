@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202611-89",
+  "name": "White label perguntas e respostas",
+  "pillar": "White label",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "operações com volume que querem oferecer pagamentos com a própria marca",
+  "funnel": "Consideração",
+  "cta": "Conheça o white label SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "White label perguntas e respostas",
+    "caption": "Você controla a experiência. Nós fornecemos a base técnica. A SE7EN PAY entrega aplicativos, ponto de captura e infraestrutura de processamento com sua marca. Operações com volume precisam de escala sem perder a identidade. Não dependa de plataformas genéricas. Tenha seu próprio ecossistema. Conheça o white label SE7EN PAY (se7enpay.com.br/white-label)",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Sua marca nos aplicativos?",
+    "hashtags": "#SE7ENPAY #WhiteLabel #Pagamentos"
+  },
+  "assets": [
+    "PUB-202611-89_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

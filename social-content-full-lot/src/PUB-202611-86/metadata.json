@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202611-86",
+  "name": "Estrutura de suporte",
+  "pillar": "Marca e confiança",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "mercado, clientes, licenciados e parceiros",
+  "funnel": "Descoberta",
+  "cta": "Acompanhe a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Estrutura de suporte",
+    "caption": "A estabilidade da sua operação depende de uma base sólida. Na SE7EN PAY, investimos em infraestrutura de processamento e suporte técnico para garantir que seu negócio funcione sem interrupções. Nossos licenciados têm acesso a um ecossistema seguro e atualizado. Confie em quem entende de pagamentos. Acompanhe a SE7EN PAY (se7enpay.com.br).",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: O que garante a estabilidade? / Segurança em primeiro lugar / Equipe sempre disponível / Tecnologia que acompanha / Conheça a SE7EN PAY",
+    "hashtags": "#SE7ENPAY #MeiosDePagamento #InfraestruturaDePagamentos #Liquidez"
+  },
+  "assets": [
+    "PUB-202611-86_p01_v45.jpg",
+    "PUB-202611-86_p02_v45.jpg",
+    "PUB-202611-86_p03_v45.jpg",
+    "PUB-202611-86_p04_v45.jpg",
+    "PUB-202611-86_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
