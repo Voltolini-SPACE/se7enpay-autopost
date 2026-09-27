@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202610-71",
+  "name": "P2 Android 11 no balcão",
+  "pillar": "Equipamentos",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "lojistas e licenciados que escolhem o ponto de captura certo para cada negócio",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "P2 Android 11 no balcão",
+    "caption": "O P2 Android 11 é um ponto de captura com chip de dados integrado. Ele garante conexão estável para processar transações com agilidade. Ideal para quem busca eficiência no balcão. Saiba mais em se7enpay.com.br/produtos/pos. Fale com um licenciado SE7EN PAY.",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Ponto de captura Android 11",
+    "hashtags": "#SE7ENPAY #InfraestruturaDePagamentos #PontoDeCaptura"
+  },
+  "assets": [
+    "PUB-202610-71_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
