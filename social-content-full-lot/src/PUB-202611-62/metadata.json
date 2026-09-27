@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202611-62",
+  "name": "Checklist Conta Digital",
+  "pillar": "Estabelecimento comercial",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Checklist Conta Digital",
+    "caption": "Você vendeu. O cliente pagou. Agora, o que sobra? Com a Conta Digital, a separação acontece na origem. Você vê o valor líquido antes de sacar. Adeus confusão no fim do mês. Saiba exatamente quanto entra na sua operação. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes)",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Seu dinheiro separado na hora",
+    "hashtags": "#SE7ENPAY #ContaDigital #GestaoFinanceira #Comercio"
+  },
+  "assets": [
+    "PUB-202611-62_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
