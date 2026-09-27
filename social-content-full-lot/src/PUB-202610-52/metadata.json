@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202610-52",
+  "name": "Erros de integração PIX",
+  "pillar": "Marca e confiança",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "mercado, clientes, licenciados e parceiros",
+  "funnel": "Descoberta",
+  "cta": "Acompanhe a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Erros de integração PIX",
+    "caption": "A confiança se constrói com clareza. Não basta ter o ponto de captura. É preciso entender como a infraestrutura de processamento se conecta ao seu fluxo. Um erro de configuração na infraestrutura para monetizar PIX pode travar seu crescimento. Nós estamos aqui para alinhar essa estratégia. De São Paulo para o Brasil, nosso time garante que tudo funcione. Acompanhe a SE7EN PAY (se7enpay.com.br)",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: O erro mais comum",
+    "hashtags": "#SE7ENPAY #Pagamentos #Infraestrutura #Negócios"
+  },
+  "assets": [
+    "PUB-202610-52_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
