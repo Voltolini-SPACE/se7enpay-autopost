@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202611-30",
+  "name": "Bastidores montagem evento",
+  "pillar": "Marca e confiança",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "mercado, clientes, licenciados e parceiros",
+  "funnel": "Descoberta",
+  "cta": "Acompanhe a SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Bastidores montagem evento",
+    "caption": "A confiança do mercado se constrói nos bastidores. Nosso time cuida de cada detalhe da infraestrutura de processamento antes do primeiro atendimento. Segurança e preparo são a nossa rotina. Acompanhe a SE7EN PAY (se7enpay.com.br)",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: O que ninguém vê / A montagem começa cedo / Segurança em primeiro lugar / O momento da verdade / Pronto para operar",
+    "hashtags": "#SE7ENPAY #Pagamentos #Infraestrutura #Bastidores"
+  },
+  "assets": [
+    "PUB-202611-30_p01_v45.jpg",
+    "PUB-202611-30_p02_v45.jpg",
+    "PUB-202611-30_p03_v45.jpg",
+    "PUB-202611-30_p04_v45.jpg",
+    "PUB-202611-30_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

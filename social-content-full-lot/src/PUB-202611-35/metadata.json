@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202611-35",
+  "name": "Exemplo de margem no caixa",
+  "pillar": "Estabelecimento comercial",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Exemplo de margem no caixa",
+    "caption": "O cliente paga R$ 100,00. Na hora de repassar, a conta não fecha na cabeça. Com a infraestrutura de pagamentos da SE7EN PAY, a distribuição programável de margem ocorre automaticamente. Você define as regras. O sistema executa. Sem planilhas confusas. Sem surpresas no final do mês. Clareza total na sua operação. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes)",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Venda de R$ 100,00 no caixa",
+    "hashtags": "#SE7ENPAY #pagamentos #gestao #lojista"
+  },
+  "assets": [
+    "PUB-202611-35_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

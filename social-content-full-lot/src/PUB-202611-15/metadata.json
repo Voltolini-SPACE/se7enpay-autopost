@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202611-15",
+  "name": "Aplicativo por perfil de negócio",
+  "pillar": "Estabelecimento comercial",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Aplicativo por perfil de negócio",
+    "caption": "Loja de roupas precisa de controle de estoque. Restaurante, de gestão de mesas. Cada negócio pede um ponto de captura diferente. A SE7EN PAY oferece infraestrutura de processamento adaptada à sua realidade. Você acompanha cada venda com clareza. Saiba quanto sobra de cada transação. Sem confusão. Sem surpresas. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes).",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Seu tipo de venda define seu app.",
+    "hashtags": "#SE7ENPAY #PontoDeCaptura #GestãoFinanceira #ComercioLocal"
+  },
+  "assets": [
+    "PUB-202611-15_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
