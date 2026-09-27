@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202611-23",
+  "name": "Checklist recebimento PIX",
+  "pillar": "Estabelecimento comercial",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Comente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Checklist recebimento PIX",
+    "caption": "Muitos lojistas veem o dinheiro entrar e não sabem quanto realmente lucrou. A confusão entre valor bruto e líquido gera erros no caixa. Use a infraestrutura para monetizar PIX para ter visibilidade total. Separe o valor líquido. Some os custos fixos. Calcule a margem final. Esse checklist rápido ajuda a reduzir a inadimplência e organizar o mês. Você ganha controle sobre cada venda no ponto de captura. Comente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: 3 passos para saber quanto sobra / 1. Separe o valor líquido / 2. Identifique os custos fixos / 3. Calcule a margem final / Receba com clareza hoje",
+    "hashtags": "#SE7ENPAY #gestaofinanceira #lojista #pagamentos"
+  },
+  "assets": [
+    "PUB-202611-23_p01_v45.jpg",
+    "PUB-202611-23_p02_v45.jpg",
+    "PUB-202611-23_p03_v45.jpg",
+    "PUB-202611-23_p04_v45.jpg",
+    "PUB-202611-23_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

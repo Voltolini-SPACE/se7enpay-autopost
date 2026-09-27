@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202611-03",
+  "name": "Cálculo de margem por venda",
+  "pillar": "Estabelecimento comercial",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Comente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Cálculo de margem por venda",
+    "caption": "Lojista, você sabe quanto sobra do bolso do cliente na hora que ele paga? A maioria não sabe. E isso gera prejuízo silencioso.\n\nCom a infraestrutura de processamento integrada ao seu PDV, o cálculo é automático. O sistema separa a taxa e mostra o valor líquido na hora.\n\nSem planilhas. Sem surpresas no fechamento. Você foca na venda. A gente cuida da clareza financeira.\n\nComente MARGEM para receber a conta de quanto sobra de cada venda no direct.",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: Quanto sobra de cada venda? / O cliente paga a mensalidade / O sistema processa tudo / Você vê o resultado / Controle total na mão",
+    "hashtags": "#SE7ENPAY #gestaofinanceira #lojista #pagamentos"
+  },
+  "assets": [
+    "PUB-202611-03_p01_v45.jpg",
+    "PUB-202611-03_p02_v45.jpg",
+    "PUB-202611-03_p03_v45.jpg",
+    "PUB-202611-03_p04_v45.jpg",
+    "PUB-202611-03_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

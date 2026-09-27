@@ -1,0 +1,27 @@
+{
+  "id": "PUB-202611-05",
+  "name": "Farmacia erro caixa integrado",
+  "pillar": "Estabelecimento comercial",
+  "format": "Carrossel 4:5",
+  "kind": "carousel",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Farmacia erro caixa integrado",
+    "caption": "A confusão entre troco e taxas no caixa da farmácia pode atrasar a fila e gerar erros. Com a infraestrutura de processamento integrada, o valor é aprovado de uma vez. O sistema separa automaticamente o que é lucro e o que é custo. Você tem clareza total. O cliente tem agilidade. Chega de cálculos manuais. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes).",
+    "alt": "Carrossel 4:5 escuro da SE7EN PAY: Erro comum no caixa / A solução integrada / Clareza no recebimento / Mais agilidade / Fale com um licenciado",
+    "hashtags": "#SE7ENPAY #pagamentos #farmacia"
+  },
+  "assets": [
+    "PUB-202611-05_p01_v45.jpg",
+    "PUB-202611-05_p02_v45.jpg",
+    "PUB-202611-05_p03_v45.jpg",
+    "PUB-202611-05_p04_v45.jpg",
+    "PUB-202611-05_p05_v45.jpg"
+  ],
+  "pages": 5,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "PUB-202611-01",
+  "name": "Pix estatico versus dinamico",
+  "pillar": "Estabelecimento comercial",
+  "format": "Estático 4:5",
+  "kind": "static",
+  "audience": "lojistas, prestadores de serviço, comércio de bairro e redes",
+  "funnel": "Consideração",
+  "cta": "Fale com um licenciado SE7EN PAY",
+  "source_class": "INSTITUTIONAL_CONFIRMED",
+  "copy": {
+    "title": "Pix estatico versus dinamico",
+    "caption": "Mito: Pix estatico serve para tudo. Verdade: ele gera copia e cola fixo. Ideal para clientes recorrentes. O dinamico gera um QR code unico por venda. Evita erros de digitar o valor. O caixa sabe exatamente quanto entrou. Controle sua operacao com clareza. Fale com um licenciado SE7EN PAY (se7enpay.com.br/clientes)",
+    "alt": "Estático 4:5 escuro da SE7EN PAY: Pix estatico ou dinamico?",
+    "hashtags": "#SE7ENPAY #ComercioLocal #Pagamentos #GestaoFinanceira"
+  },
+  "assets": [
+    "PUB-202611-01_p01_v45.jpg"
+  ],
+  "pages": 1,
+  "brand": "SE7EN PAY Brandbook v1.0 CONGELADO",
+  "status": "aguardando aprovação do dono"
+}
